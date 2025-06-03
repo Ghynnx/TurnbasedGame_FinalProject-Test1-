@@ -1,0 +1,11 @@
+com\mycompany\tbgame\Action.class
+com\mycompany\tbgame\Quest.class
+com\mycompany\tbgame\ActionHistory.class
+com\mycompany\tbgame\DungeonEncounter.class
+com\mycompany\tbgame\Hero.class
+com\mycompany\tbgame\Monster.class
+com\mycompany\tbgame\Skill.class
+com\mycompany\tbgame\TBGame.class
+com\mycompany\tbgame\Inventory.class
+com\mycompany\tbgame\QuestManager.class
+com\mycompany\tbgame\Item.class
